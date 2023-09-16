@@ -26,10 +26,7 @@ git clone https://github.com/anubhavv106/LGMVIP-Web-Task-02.github.io
 
 ## 🎥 Demo Video
 
-
-
-
-
+https://github.com/anubhavv106/LGMVIP-Web-Task-02.github.io/assets/112748712/66399d33-3d03-498a-b7a6-0374d87a4953
 
 ## 📝 License
 
