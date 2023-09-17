@@ -13,7 +13,7 @@ This is simple web based react app which display the data using the API.
 1. Clone this repository: 
 ```bash 
 
-git clone https://github.com/anubhavv106/LGMVIP-Web-Task-02.github.io
+git clone https://github.com/anubhavv106/LGMVIP-Web-Task-02
    ```
 2. Then type `npm install` in the root folder and after that type `npm start` in your Vs code terminal.
 
